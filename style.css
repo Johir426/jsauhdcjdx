@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    background-color: #2E2E2E;
+    height: 80px;
+    font-family: 'Playfair Display', serif;
+
+    
+}
+.head{
+    width: 1200px;
+    margin: auto
+}
+
+.logo{
+    float: left;
+    width: 50%
+}
+.logo img{ 
+        width: 100px;
+    height: 60px;
+    margin-top: 10px;
+    cursor: pointer
+    
+}
+.logo a{
+       text-decoration: none;
+    color:white;
+    position: absolute;
+    margin-top: 20px;
+    padding-left: 15px;
+    font-size: 25px;
+}
+.var{ 
+    
+}
+menu{
+    
+}
+menu ul{ 
+    
+}
+menu ul li {
+        list-style-type: none;
+    display: inline-block;
+    margin-top: 15px;
+}
+menu ul li a{
+    text-decoration: none;
+    float: left;
+    padding: 10px 25px;
+    color: #fff;
+    font-size: 18px;
+}
+ a:hover{color: #A6AFB8
+    
+}
+*/Header End*/
+*/Meader Start*/
+meader{
+    
+}
+.mead{
+    width: 1200px;
+    margin: auto;
+    height: 750px;
+    
+}
+.mead .first{
+    
+}
+.first h1{
+    font-weight: normal;
+    text-align: center;
+    margin: 23px;
+    font-size: 60px;
+        color: #76767A
+}
+.first p{margin-left: 20px;
+    font-size: 28px;
+    font-weight: normal;
+    color: #76767A;
+    
+}  
+
+.mead .first h4{
+    text-align: justify;
+     font-weight: normal;
+     font-size: 29px;
+     color: #76767A;
+
+}
+.second{margin-top: 50px;
+
+    
+}
+.second .get{
+    float: left
+    
+}
+.get img{
+        width: 580px;
+    height: 330px;
+    
+}
+.second{
+    
+}
+.second .total{
+    
+}
+.total .lo{
+    
+}
+.total lolo{
+    
+}
+.total .lololo{
+    
+}
+.total h1{    display: inline;
+    margin-left: 77px;
+    color: #FF3366;
+    font-family: sans-serif;
+}
+.total h2{ display: inline
+    
+}
+.total p{ 
+       margin-left: 660px;
+    font-size: 19px;
+    
+    
+}
+.three{
+    margin-left: 0px;
+   
+}
+.total .lo label {
+  margin-left: 80px;
+    display: inline-block;
+    margin-bottom: 22px;
+    margin-top: -9px;
+    font-size: 18px;
+    color: #0000FF;
+}
+.boring{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid #76767A; 
+
+    margin: 0px 0px 0px 10px;
+    padding: 10px 17px;
+    font-weight: normal;
+}
+*/Meader End*/
+*/Footer Start*/
+.ftr{
+
+
+}
+.foot{
+    background-color: #2E2E2E;
+
+    height: 300px;
+    color: white
+    
+    
+}
+.foot .mail{
+    width: 1200px;
+    margin: auto;
+    
+}
+.mail img{
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    
+}
+.mail h3{     display: inline-block;
+    margin: 50px 5px 20px 150px;
+    font-size: 30px;
+    
+    
+}
+
+.mail p{margin: 20px 20px 10px 335px;
+    font-size: 20px;
+    
+}
+.foot .copy{width:1200px
+    ;margin: auto;
+    
+}
+.copy p{
+    font-size: 19px;
+    margin: 50px 22px ;
+    
+}
+img:hover{
+    opacity: 0.8
+}
+
+
+
+
+
+
